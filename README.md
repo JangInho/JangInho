@@ -2,7 +2,6 @@
 
 안녕하세요👋
 
-Flutter를 좋아하는 개발자입니다.
 
 <!--
 **JangInho/JangInho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
