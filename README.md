@@ -13,7 +13,7 @@
 ## ⚡ Experiences
 - **숭실대학교 IT지원위원회 Backend 개발자** `2024.09 ~` 
 - **GDSC(Google Developer Student Clubs) Soongsil Web/Mobile part** `2022.09 ~ 2023.09`
-- **테크랩스 산업기능요원 Flutter, IOS, Frontend** `2021.01 ~ 2024.05`
+- **테크랩스 산업기능요원 Flutter, IOS, Frontend** `2022.01 ~ 2024.05`
 - **도토리박스 숭실대학교 창업팀** `2021.09 ~ 2021.12`
 
 <br>
