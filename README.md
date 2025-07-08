@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Inhovation%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Inhovation%20&fontSize=75)
 
 ## 🌱 Project
 - README 자동 생성 AI 서비스 "READMER" `2025.03 ~ `
