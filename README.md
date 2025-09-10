@@ -13,7 +13,7 @@
 ## ⚡ Experiences
 - **AUSG(AWSKRUG University Student Group) 9기** 대학생 개발자를 위한 클라우드 커뮤니티 `2025.07 ~`
 - **숭실대학교 IT지원위원회 Backend 개발자** `2024.09 ~`
-- **테크랩스 산업기능요원 (아만다, 너랑나랑, 점신)** Flutter, IOS, Frontend `2022.01 ~ 2024.05`
+- **테크랩스 산업기능요원 (아만다, 너랑나랑, 점신)** Flutter, IOS, Web Frontend `2022.01 ~ 2024.05`
 - **GDSC(Google Developer Student Clubs) Soongsil Web/Mobile part** `2022.09 ~ 2023.09`
 - **도토리박스 숭실대학교 창업팀** `2021.09 ~ 2021.12`
 
