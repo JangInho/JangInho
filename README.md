@@ -3,7 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Inhovation%20&fontSize=75)
 
 ## 🌱 Project
-- README 자동 생성 AI 서비스 "READMER" `2025.03 ~ `
+- 디지털 수령증 PASSU 관리자 사이트 `2025.07 ~ `
+- README 자동 생성 AI 서비스 "READMER" `2025.03 ~ 2025.08`
 - 숭실대학교 총학생회 홈페이지 (질의응답게시판, 마이페이지, PASSU(디지털 수령증) 연동) `2024.09 ~ `
 - 숭실대학교 성적 알림 서비스 "슈레이드" `2023.06 ~ 2023.09`
 - 택시 차량 액티비티 광고 플랫폼 도토리박스 "도토리박스" `2021.09 ~ 2021.12`
